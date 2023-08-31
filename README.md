@@ -1,41 +1,19 @@
 <!DOCTYPE html>
-<html>
-    <head>
- <link rel="stylesheet" href="styles.css">
-  </head>
-<body>
-    
-<button   id="button" onclick   ="change theme () " > dark theme </button>    <a href="https://www.google.com">
-  <div>  good 
- greatness is my only path 
-  <p> believe <h5></p>
-  <b> <i> <p>in yourself</p><i> </b>
- <u> <p> don't forget who you are  <brd> </u>
-   <div>   block
-    href="https://www.google.com"> google me</div>
-          </a>
-       name  <input type="text">
-       <nav> 
-     <a href="https://www.google.com/webhp?client=ms-opera-mini-android">
-    <button> submit</button>
-    
-<button   id="button" onclick   ="change theme () " > dark theme </button>   
+ <html>
+ <head><h1> <center>HEALTHY LIVING</h1></head><br>
+	 <title>morning</title>
+	 <meta charset="UTF-8"/>
+	 <link rel="stylesheet" href="box.css" type="text/css"/>
+ </head>
+	 <body>
+	
+	<button  id="btn1"> <b> EAT SMART	</button> 
+	<button  id="btn2"> <b> WORK OUT</button> 
 
 
 
+	<button  id="btn3" ><b>READ BOOKS</button> 
+	<button  id="btn4"> <b>SLEEP MORE</button>
 
-
-
-
-
-
-
-.<h1>Our features</h1>
-
-
-
-
-
-               
-          </body> 
-          </html>
+	 </body>
+ </html>
