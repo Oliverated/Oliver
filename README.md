@@ -7,8 +7,8 @@
  </head>
 	 <body>
 	
-	<button  id="btn1"> <b> EAT SMART	</button> 
-	<button  id="btn2"> <b> WORK OUT</button> 
+	<button  id="btn1"> <b> EAT SMART	</b>
+	<button  id="btn2"> <b> WORK OUT</b>
 
 <p>Victor L. Oliver </p>
 
