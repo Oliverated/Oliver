@@ -1,0 +1,55 @@
+body {
+	 background: lavender;
+	 color: ;
+ }
+ h1{
+	color: goldenrod;
+}
+h2{
+	color: Olive;
+	textaext-align: center;
+}
+b{
+	color: gold;
+}
+ 
+ #btn1 { float: left;
+  background-color: darkblue;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 40px;}
+	
+ 
+  #btn2 { float: right;
+  background-color: darkgreen;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 40px;}
+	
+	
+	 #btn3 { float: left;
+  background-color: saddlebrown;
+	padding-top: 40px;
+	padding-left: 25px;
+	padding-right: 24px;
+	padding-bottom: 40px;
+	margin-top: 300px;}
+	
+	
+	 #btn4 { float: right;
+	 float: down;
+  background-color: maroon;
+	padding-top: 40px;
+	padding-left: 23px;
+	padding-right: 23px;
+	padding-bottom: 40px;
+	margin-top: 300px;}
+	
+	
+	span{
+	 margin: auto;
+	 Text-align:center ;
+	 
+	 } 
