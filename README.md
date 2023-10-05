@@ -10,7 +10,7 @@
 	<button  id="btn1"> <b> EAT SMART	</button> 
 	<button  id="btn2"> <b> WORK OUT</button> 
 
-Victor L. Oliver 
+<p>Victor L. Oliver <\p>
 
 	<button  id="btn3" ><b>READ BOOKS</button> 
 	<button  id="btn4"> <b>SLEEP MORE</button>
